@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "701126772636",
+    "project_id": "whatsapp-cd6ca",
+    "storage_bucket": "whatsapp-cd6ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701126772636:android:f7b32677097219d34b6a59",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4JhpnnIuLAMFYvlij9-ISxr_ORX6g0To"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
